@@ -26,7 +26,7 @@ retail shops. Multi-tenant SaaS, built by a founder who runs a real clinic on it
 ## Built in production, fast
 
 - Development started **5 Sep 2026**; live since **1 Oct 2026** (v1.0.0).
-- **27 production releases in 11 days** (v1.0.0 → v1.16.2), each gated by **4,600+ automated tests**, business-invariant
+- **28 production releases in 12 days** (v1.0.0 → v1.17.0), each gated by **4,600+ automated tests**, business-invariant
   reviews and a security review.
 - 119 database migrations · 800+ commits · multi-branch operations shipped in five rounds over two days.
 - Dog-fooded daily at our first clinic (2 founders + 3 staff).
